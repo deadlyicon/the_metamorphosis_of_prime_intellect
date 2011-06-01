@@ -1,0 +1,107 @@
+Lawrence's eyes flashed. "That's a little unprecedented, isn't it?"
+Taylor smiled. "If you succeed, we won't need the source code. Why start from
+scratch when a finished product is waiting to be duplicated?"
+"There are some," Lawrence said darkly, "who aren't happy with the direction the
+code has taken."
+"ChipTec is happy to have any marketable product, Dr. Lawrence. If anybody else
+wants to be that picky, let them find their own computer genius."
+Lawrence's mind was racing, racing. Within each tiny processor in the massive
+Intellect were special functions of his own design, functions that could be
+reduced to hardware and done very efficiently with this new technology. Had he
+said two orders of magnitude? Try three. Or four. He could do full-video pattern
+recognition. Voice analysis. Multiple worldview pattern mapping. Separate filter
+mapping and reintegration. These were things he had tried in the lab, in the
+surreal world of artificially slowed time, that he knew would work. Now he would
+have the hardware to do them for real in a functioning prototype.
+If he had been less excited, he might have wondered about that word
+"marketable." But the possibilities were so great that he didn't have time to
+notice.
+"When do we begin?" he finally said.
+
+The building had once been a warehouse for silicon billets, before ChipTec had
+switched to a ship-on-demand method of procurement. Lawrence wasn't vain and he
+was in a hurry to get started; the metal building would be more than adequate
+for his purposes.
+With his move from the university and this quantum leap in technology, it didn't
+seem appropriate to continue numbering his computers. What would be Intellect 41
+was going to resemble its predecessors about as much as a jumbo jet resembled
+the Wright Brothers' first plane. It would be the first of a new series of
+Intellects, the first, Lawrence hoped, to have a truly human level of
+intelligence.
+It would be the Prime Intellect.
+The label stuck, and the sign which ChipTec hung on the side of the building
+within the next month said:
+
+PRIME INTELLECT COMPLEX
+
+
+The speed of things made Lawrence feel a little dizzy. At the university he had
+had to make grant applications, oversee procurement, hand-assemble components,
+and do testing as well as designing hardware and code. Now he had the resources
+of a major corporation at his disposal, and if he suggested a change to the
+chipset at 8:00 A.M. he was likely to have the first prototype on his desk the
+next morning. Talented engineers took even his most vague suggestions and
+realized them in hardware before he could even be sure they were final.
+A crew assembled modules in the warehouse, starting with the power supplies and
+empty card racks. The amazing thing was that none of this seemed to interfere
+with ChipTec's main work of churning out CPU's for personal computers. ChipTec
+had recently built a new plant to manufacture its latest high-technology
+product. The older plant dedicated to Lawrence's project was technically
+obsolete, even though it was only a few years old.
+The chips being made for Lawrence's project were eerie for their lack of pins.
+Each tiny logic unit, barely a centimeter across, contained nearly a billion
+switching elements and yet had only three electrical connections to the outside
+world; they resembled nothing so much as the very earliest transistors. Unlike
+most computer parts, they communicated with each other through the "Correlation
+Effect" rather than through wires. This made Prime Intellect's circuit boards
+alarmingly simple; the only connections were for power. Even a transistor radio
+would have appeared more complex.
+There were five major revisions before Lawrence declared the design final. Then
+production stepped up; at its peak, ChipTec was churning out forty thousand
+tested processors per day. Lawrence's goal was to give Prime Intellect ten
+million of them, a goal which would take most of a year to fulfill. Since each
+processor was over ten thousand times faster than a human nerve cell, Prime
+Intellect would be blessed with a comfortable information processing advantage
+over any human being who had ever lived.
+Long before the goal was reached Lawrence was using the processors that had
+already been installed; he used them to test and educate his video recognition
+programs, to integrate experiential records from all his previous Intellect
+computers, and to perfect some ideas that had been beyond even his slow-time
+experiments to test. He did not, however, run the full Intellect program in the
+incomplete assembly. For one thing, it wasn't necessary; Prime Intellect wasn't
+just "a" program, but a constellation of over four thousand programs, some of
+which would be running simultaneously in thousands of processors. Each was more
+than capable of doing its job without the full cooperation of the entire
+organism, just as a nerve cell can function in Petri dish as long as it is
+supplied with nutrients.
+And there was a kind of superstitious sense of expectation surrounding that
+final goal which Lawrence didn't want to blow by starting Prime Intellect
+prematurely. The project was written up in the popular science press, and
+Lawrence hosted emissaries from TV shows and magazines. Toward the end, there
+was nothing to do but watch the circuit card banks fill and listen to the
+growing hum of the power supplies. It was just as well, because Lawrence found
+himself becoming a bit of a celebrity.
+Finally, after eleven months and four days, Lawrence sat at an ordinary looking
+console and typed a few commands. Four TV cameras and twenty journalists watched
+over his shoulder. Lawrence had a pretty good idea what would happen, but with
+self-aware computers you could never be completely sure, any more than you could
+with an animal. That was part of the magic of this particular moment in time. So
+Lawrence was as tense as everyone else while the final code compilation took
+place.
+The text disappeared from Lawrence's screen and a face coalesced in its place.
+Prime Intellect would not be relegated to pointing at things with the lens of
+its video camera; it could project a fully photographic video image of an
+arbitrary human face. Lawrence had simply directed it to look average. He now
+saw that Prime Intellect had taken him at his word. It was difficult to place
+the face's race, though it certainly wasn't Caucasian, and although it looked
+male there was a feminine undertone as it spoke:
+"Good morning, Dr. Lawrence. It's good to finally see you. I see we have some
+company."
+It wasn't able to say much else until the applause died down.
+During the next month Lawrence and Prime Intellect were very, very busy
+appearing on television talk shows, granting interviews, and performing
+operational checks. Prime Intellect's disembodied face usually appeared, via the
+magic of satellite transmission, on the twenty-seven inch Sony monitor which
+Lawrence carried with him for the purpose. Lawrence dragged the monitor to TV
+studios, to press conferences, and to photographers who used large-format
+cameras to record him leaning against it for the covers of magazines.

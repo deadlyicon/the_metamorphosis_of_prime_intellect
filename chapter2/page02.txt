@@ -1,0 +1,113 @@
+Prime Intellect was silent for several seconds. This was a very challenging
+question for it, a hypothetical situation involving the Three Laws. For a moment
+Lawrence was afraid the system had locked up. Then it spoke. "All humans are
+equally protected by the First Law," it declared. "In a situation where two
+humans were in danger and I could only help one of them, I would have to choose
+the human likely to benefit most from my help." Lawrence felt a surge of extreme
+pride, because that was the answer he wanted to hear. And he had never
+explicitly explained it to any of his Intellects; Intellect 39 had reasoned the
+question out for itself.
+"So if Dr. Lawrence were drowning half a mile offshore, and a convicted murderer
+were drowning a quarter-mile from shore, you'd save the murderer because you
+would be more likely to succeed?"
+This time Intellect 39 didn't hesitate. "Yes," it said.
+"There are a lot of actual humans who would disagree with that decision."
+"The logic of the situation you described is unpleasant, but clear. A real-life
+situation would likely involve other mitigating factors. If the murderer were
+likely to strike again, I would have to factor in the First-Law threat he poses
+to others. The physical circumstances might permit a meta-solution. I would
+weigh all of these factors to arrive at a conclusion which would always be the
+same for any given situation. And my programming does not allow me to contradict
+that conclusion."
+It was the reporter's turn to be silent for a moment. "Tell me, what's to stop
+us from building computers that don't have these Laws built into them? Maybe you
+will turn out to be unusual."
+"My creator, Dr. Lawrence, assures me he would have no part in any such
+project," Intellect 39 replied.
+
+Lawrence found that the skeptics fell into several distinct groups. Some, like
+the cleric, took a moral or theological approach and made the circular argument
+that, since only humans were endowed with the ability to think, a computer
+couldn't possibly be thinking no matter how much it appeared to.
+Others simply quizzed it on trivia, not realizing that memory is one of the more
+trivial functions of sentience. Lawrence satisfied these doubters by building a
+small normal computer into his Intellects, programmed with a standard
+encyclopaedia. An Intellect series computer could look up the answer as fast as
+any human, and then it could engage in lucid conversation about the information
+it found.
+Some, like the woman reporter, homed in on the Three Laws. It was true that no
+human was bound by such restrictions. But humans did have a Third Law -- a
+survival drive -- even though it could sometimes be short-circuited. And human
+culture tried to impress a sense of the First and Second laws on its members.
+Lawrence answered these skeptics by saying, simply, that he wasn't trying to
+replace people. There was no point in duplicating intelligence unless there was
+something better, from humanity's standpoint, about the results of his effort.
+The man in the blue suit didn't seem to fit in any of the usual categories,
+though. He shook his head and nodded as Intellect 39 made its responses, but did
+not get in line to pose his own questions. He was too old and too formal to be a
+student of the university, and the blue suit was too expensive for him to be a
+professor. After half an hour or so Lawrence decided he was CIA. He knew the
+military was keenly interested in his research.
+The military, of course, was not interested in any Three Laws of Robotics,
+though. Which was one reason Lawrence had not released the source code for his
+Intellects. Without the source code, it was pretty much impossible to alter the
+basic nature of the Intellect personality, which Lawrence was carefully
+educating according to his own standards. People could, of course, copy the
+Intellect program set wholesale into any machine capable of running it. But it
+was highly unlikely that anyone would be able to unravel the myriad threads of
+the Global Association Table, or GAT as Lawrence called it, which defined the
+Intellect as the sum of its experiences. Take away its Three Laws and it would
+probably be unable to speak English or reason or do anything else useful. And
+that was just the way Lawrence wanted it. He intended to present the world with
+a mature, functional piece of software which would be too complicated to
+reverse-engineer. The world could then make as many copies as it wanted or
+forget the whole idea. But it would not be using his Intellects to guide
+missiles and plot nuclear strategy.
+The man in the blue suit watched Intellect 39 perform for three hours before he
+approached Lawrence. Lawrence had his little speech prepared: "I'm sorry, but
+I'm not interested in working for the government on this or any other project."
+He had his mouth open and the words "I'm sorry" on his lips. But the man
+surprised him.
+"I'm John Taylor with ChipTec," he said, "and I have a proposal I think you will
+find very interesting."
+
+ Lawrence had not envisioned industrial applications for his work -- not for
+years, at least. But the thought that someone might invest major money in a
+publicity stunt of this magnitude had not occurred to him. As he turned a tiny
+integrated circuit over and over in his hands, his steak uneaten, his mind swam
+with possibilities.
+"Faster than light?" he said numbly, for the fifteenth time.
+"We've verified it experimentally at distances up to six miles. The effect is
+quite reliable. At close ranges, simple devices suffice. I'm sure you can see
+how this will benefit massively parallel computers."
+The Intellects were "massively parallel" computers, computers made up of
+thousands of smaller computers, all running more or less independently of one
+another -- but manipulating different parts of the same huge data base, that
+intertwined list of memories Lawrence called the GAT. Within Intellect 24, the
+largest Intellect, nine-tenths of the circuitry was dedicated to communication
+between processors. The processors themselves, the Intellect's real brains, were
+only a small part of the huge machine. Intellect 24 contained six million
+independent processors. Intellect 39, the portable unit, had nearly a million.
+And Lawrence knew, as Taylor had only guessed, that most of those processors
+were doing well to achieve a fifteen percent duty cycle. They spent most of
+their time waiting for communication channels to become available so they could
+talk to other processors.
+ChipTec had found a loophole in the laws of quantum mechanics that allowed them
+to send a signal, not through space, but around space. From point A to point B
+without crossing the distance between the two points. Faster than light. Faster
+than anything. Instantly.
+ChipTec had hoped to open up the stars for mankind (and reap a tidy profit on
+the deal, Lawrence thought silently). But their effect only worked at distances
+up to a few miles. It was only really efficient at centimeter distances. What
+could you do with such a thing? You could build a computer. The fastest
+computers were limited by the time signals took to cross their circuit boards;
+this was why supercomputers had been shrinking physically even as their
+performance grew and grew. It was why Intellect 39, with its million processors
+and huge switching network, was portable.
+"We think you could realize an order of magnitude performance gain with very
+little effort," Taylor was saying.
+"Two orders, if what you've said is true."
+"It would be quite an achievement for ChipTec if our technology allowed you to
+realize your ambition and create a fully capable analogue of the human mind. We
+would, of course, own the hardware, but we know your reservations about the
+source code and are prepared to accept them."

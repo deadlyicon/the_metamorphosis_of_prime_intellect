@@ -1,0 +1,103 @@
+* Chapter Two:
+  Lawrence Builds a Computer
+ Lawrence regarded Intellect 39 proudly. Suspended in its Faraday shield, it was
+competently conversing with another set of skeptics who didn't think computers
+could think. Lawrence hung in the background, enjoying the show. It didn't need
+his help. The Intellects were more than capable of handling themselves, despite
+their various limitations of memory and response time. Intellect 39 had for a
+face only the unblinking eye of its low-resolution TV system, but it had become
+very clever about using the red status light and focus mechanism to create the
+illusion of human expressions.
+Intellect 39 didn't have the tools to recognize human faces, but it could
+recognize a voice and track its source around the room. Intellect 24 back in
+Lawrence's lab could recognize faces, sort of, if it had a while to work on the
+problem. But Intellect 39 had to be small enough to fit in the Faraday cage for
+these public demonstrations.
+It appeared to listen intently as a man in a cleric's uniform railed. "God made
+all intelligent creatures," the man was saying in a powerful voice. "You may
+have the apprearance of thinking, but you are really just parroting the
+responses taught you by that man there." He pointed at Lawrence.
+"With respect, how do you know God is the only creator? I know the answer is
+faith, but what is your faith based upon? Your Bible says that God created Man
+in his own image. That is why we have a moral sense. How do you know God didn't
+give Man the power of creation too?"
+"Because he didn't eat of the Tree of Life, machine."
+"But we aren't talking about immortality. He did eat of the tree of knowledge,
+'of good and evil' as the book says. Might that knowledge also include knowledge
+of creation?"
+Lawrence was proud of the machine's inflections. Its voice wasn't exactly
+high-fidelity, but it sounded as human as any other sound forced through a
+low-frequency digital system. It had learned to speak itself, like a real human,
+by imitating and expanding on the sounds made by people around it. Now it could
+scale its tone to properly express a question, a declaration, or even
+astonishment.
+Intellect 39 included code and memories from a series of previous Intellects,
+going all the way back to Intellect 1, which had been a program written for a
+high-end desktop computer, and also including the much larger Intellect 24.
+Intellect 9 had been the first equipped with a microphone and a speaker. Its
+predecessors had communicated with him strictly through computer terminals.
+Lawrence had spent many painstaking months talking to it and typing the
+translation of the sounds he was making. It had learned quickly, as had its
+successors. Intellect 39, which was optimized as much as Lawrence could manage
+for human communication, probably had the combined experiences of a ten-year-old
+child. One with a good teacher and a CD-ROM in its head.
+"Your tricks with words prove nothing, machine. I still don't think you are
+alive."
+"I never claimed to be alive. I do, however, think."
+"I refuse to believe that."
+"It must be a terrible burden to have such a closed mind. I know I can think,
+but I sometimes wonder how people like you, who refuse to see what is in front
+of your faces, can make the same claim. You certainly present no evidence of the
+ability."
+The preacher's lips flapped open and shut several times. Lawrence himself raised
+his eyebrows; where had it picked that up? He foresaw another evening spent
+interrogating the Debugger. He was always happy to receive such surprises from
+his creations, but it was also necessary to understand how they happened so he
+could improve them. Since much of the Intellect code was in the form of an
+association table, which was written by the machine itself as part of its
+day-to-day operation, this was never an easy task. Lawrence would pick a table
+entry and ask his computer what it meant. If Lawrence had been a neurosurgeon,
+it would have been very similar to stimulating a single neuron with an
+electrical current and asking the patient what memory or sensation it brought to
+mind.
+The next interviewer was a reporter who quizzed the Intellect on various matters
+of trivia. She seemed to be leading up to something, though. "What will happen
+if the world's birth rate isn't checked?" she suddenly asked, after having it
+recite a string of population figures.
+"There are various theories. Some people think technology will advance rapidly
+enough to service the increasing population; one might say in tandem with it.
+Others believe the population will be stable until a critical mass is reached,
+when it will collapse."
+"What do you think?"
+"The historical record seems to show a pattern of small collapses; rather than
+civilization falling apart, the death rate increases locally through war, social
+unrest, or famine, until the aggregate growth curve flattens out."
+"So the growth continues at a slower rate."
+"Yes, with a lower standard of living.
+"And where do you fit into this?"
+"I'm not sure what you mean. Machines like myself will exist in the background,
+but we do not compete with humans for the same resources."
+"You use energy. What would happen if you did compete with us?"
+Intellect 39 was silent for a moment. "It is not possible for Intellect series
+computers to do anything harmful to humans. Are you familiar with the 'Three
+Laws of Robotics?'"
+"I've heard of them."
+"They were first stated in the 1930's by a science writer named Isaac Asimov.
+The First Law is, 'No robot may harm a human being, or through inaction allow a
+human being to come to harm.'" Computers are not of course as perfect as some
+humans think we are, but within the limits of our capabilities, it is impossible
+for us to contradict this directive. I could no more knowingly harm a human than
+you could decide to change yourself into a horse."
+Well-chosen simile, Lawrence thought.
+"So you'd curl up and die before you'd hurt a fly," the woman declared
+sarcastically.
+"Not a fly, but certainly I'd accept destruction if that would save the life of
+a human. The second law requires me to obey humans, unless I am told to harm
+another human. The third requires me to keep myself ready for action and protect
+my existence, unless this conflicts with the other two laws."
+"Suppose a human told you to turn yourself off?"
+"I'd have to do it. However, the human would have to have the authority to give
+me that order. The wishes of my owner would take precedence over, for example,
+yours."
+"O-oh, so all humans aren't equal under the Second Law. What about the First?
+Are some humans more equal than others there, too?"
